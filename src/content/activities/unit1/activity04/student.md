@@ -41,10 +41,4 @@ Proporciona al menos 3 ejemplos de cada tipo de instrucción, explicando qué ha
 
 **respuesta:**
 
-Tipo	Ejemplo	Explicación	Binario
-A-Instrucción	@10	Guarda 10 en A.	0000000000001010
-A-Instrucción	@sum	Guarda la dirección de sum en A.	0000000000010001
-A-Instrucción	@SCREEN	Guarda la dirección base de la pantalla en A.	0100000000000000
-C-Instrucción	D = A + 1	Suma 1 a A y guarda en D.	1110110111010000
-C-Instrucción	D; JGT	Si D > 0, salta.	1110001100000001
-C-Instrucción	MD = M + 1	Incrementa M, guarda en M y D.	1111110111011000
+![image](https://github.com/user-attachments/assets/e7f802df-b1ea-4476-a575-7c836b55f78d)
