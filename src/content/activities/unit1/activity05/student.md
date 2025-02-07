@@ -22,4 +22,6 @@ EXPLICACION simplemente se cambio el valor de el 1 por 60, el valor de 2 por 9,e
 
 **RESPUESTA A EJERCICIO #5**
 
+![image](https://github.com/user-attachments/assets/fe8adee2-ca07-43e9-9363-d8fc16ac6b8f)
+
 
