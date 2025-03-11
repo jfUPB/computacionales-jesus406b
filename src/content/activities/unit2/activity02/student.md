@@ -12,8 +12,12 @@ La dirección de una variable es el lugar físico en la memoria donde se almacen
 La condición i <= 100 se implementa en ensamblador a través de los siguientes pasos:
 
 1)Se carga el valor de i en el registro D:
+
+```asm
 @i
 D=M
+```
+
 (Esto coloca el valor de i en el registro D.)
 
 2)Se resta 100 de D:
