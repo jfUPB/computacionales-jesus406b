@@ -24,3 +24,4 @@ _start:
     xor ebx, ebx  ; Código de salida 0
     int 0x80      ; Interrupción para salir
 ```
+Este código en ensamblador realiza exactamente lo mismo que el código en C: almacena la dirección de a en p, luego usa p para asignar el valor de a a b.
