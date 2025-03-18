@@ -21,13 +21,16 @@ D=M
 (Esto coloca el valor de i en el registro D.)
 
 2)Se resta 100 de D:
+```asm
 @100
 D=D-A
 (Esto calcula i - 100.)
-
+```
 3)Se evalúa si D > 0:
+```asm
 @END
 D;JGT
+```
 (Si i - 100 es mayor que 0, significa que i > 100, por lo que el programa salta a END, terminando el bucle.)
 
 Si i es menor o igual a 100, el programa sigue ejecutando las instrucciones dentro del bucle (LOOP), sumando i a sum y aumentando i en 1 antes de volver a evaluar la condición.
