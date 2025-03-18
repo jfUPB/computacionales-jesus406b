@@ -35,6 +35,4 @@ D;JGT
 
 Si i es menor o igual a 100, el programa sigue ejecutando las instrucciones dentro del bucle (LOOP), sumando i a sum y aumentando i en 1 antes de volver a evaluar la condición.
 
-Conclusión
-Este ejercicio permite comprender cómo un programa escrito en un lenguaje de alto nivel como C++ se traduce a instrucciones de bajo nivel en ensamblador. Además, ayuda a visualizar la relación entre direcciones de memoria y contenido, así como la forma en que se implementan estructuras de control como los bucles y las comparaciones.
 
