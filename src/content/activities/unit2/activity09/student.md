@@ -45,7 +45,7 @@ int main() {
 }
 ```
 
-Explicación:
+**Explicación:**
 SCREEN: Es un arreglo de 8,192 posiciones (cada posición representa 16 píxeles) que simula la pantalla. Cada valor en este arreglo podría ser 0 (apagado) o 1 (encendido).
 
 KBD: Es la variable que representa la entrada del teclado. En este caso, la entrada del teclado se simula con un valor que puede cambiar según el código de máquina.
