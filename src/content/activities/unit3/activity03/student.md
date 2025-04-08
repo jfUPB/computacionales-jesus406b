@@ -4,6 +4,7 @@ CAPTURA DE PANTALLA  DE LA EJECUCION DEL PROGRAMA
 
 ![image](https://github.com/user-attachments/assets/84f93e56-8af0-42c7-a02c-aae192bc3258)
 
+```asm
  **Mapa de Memoria del Programa C++**
  +---------------------------------------------+
 | **Stack** (crece hacia abajo)               |
@@ -35,3 +36,4 @@ CAPTURA DE PANTALLA  DE LA EJECUCION DEL PROGRAMA
 | (No se mostró en la salida, pero suelen estar |
 |  en direcciones más bajas, como 0x00007FF7...) |
 +---------------------------------------------+
+```
