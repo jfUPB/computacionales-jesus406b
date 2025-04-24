@@ -6,7 +6,6 @@
 ![act1 2](https://github.com/user-attachments/assets/be7c4e02-f721-401f-bdec-f4484b337ae8)
 
 
-Claro, aquí tienes un resumen de la explicación sobre las opciones de depuración en Visual Studio, usando el ejemplo de `int a = 10;` y `int b = 7;`.
 
 ### Opciones de Depuración:
 
