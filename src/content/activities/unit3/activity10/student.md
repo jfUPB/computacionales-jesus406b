@@ -94,10 +94,5 @@ Diferencias entre pasar por Valor, Referencia y Puntero:
 | Por referencia    |  Sí                     |    No           | `f(Punto& p)` |
 | Por puntero       |  Sí                     |    No           | `f(Punto* p)` y se pasa `&obj` |
 
-Consejo práctico:
-
-- Usa **por valor** si no necesitas modificar el objeto y el objeto es pequeño.
-- Usa **por referencia o puntero** si quieres modificar el objeto o evitar el costo de copia (especialmente con objetos grandes).
-
 
 
