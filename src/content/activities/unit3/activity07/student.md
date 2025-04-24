@@ -146,7 +146,8 @@ En C#:
 
 **Captura del depurador**
 
-En el depurador, al inspeccionar `p`, verás la dirección de memoria y los valores de **x** e **y**. En el caso de **C++**, como estamos usando el **stack**, la dirección de memoria estará cerca de la parte superior del stack. Si estuvieras usando **C#**, verías que el objeto realmente se encuentra en el **heap**, y la referencia `p` solo contiene la dirección de esa ubicación.
+![image](https://github.com/user-attachments/assets/3b271396-e220-4a67-a6fc-7eda9c48787d)
+
 
 ---
 
